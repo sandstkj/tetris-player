@@ -1,6 +1,6 @@
 # tetris-player
 
-##Required libraries
+## Required libraries
 
 - cv2
 - pyautogui
